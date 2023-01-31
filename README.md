@@ -1,4 +1,4 @@
-# paint-with-words
+## Paint-With-Words
 
 [Paper](https://arxiv.org/abs/2211.01324) | [Demo](https://huggingface.co/spaces/nyanko7/sd-diffusers-webui)
 
