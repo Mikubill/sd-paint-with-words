@@ -15,5 +15,5 @@ Inspired by this method, we created a simple a1111-style sketching UI that allow
 
 | Sketch | Image |
 |:-------------------------:|:-------------------------:|
-|<img width="512" alt="" src="https://raw.githubusercontent.com/Mikubill/sd-paint-with-words/main/samples/sample-3-1.png">  |  <img width="256" alt="" src="https://raw.githubusercontent.com/Mikubill/sd-paint-with-words/main/samples/sample-3-2.png"> |
-|<img width="512" alt="" src="https://raw.githubusercontent.com/Mikubill/sketch2img/main/samples/sample-1-compressed.png">  |  <img width="256" alt="" src="https://raw.githubusercontent.com/Mikubill/sd-paint-with-words/main/samples/sample-1-output-compressed.png"> |
+|<img width="512" alt="" src="https://github.com/Mikubill/sd-paint-with-words/blob/main/samples/sample-3-1.png?raw=true">  |  <img width="512" alt="" src="https://github.com/Mikubill/sd-paint-with-words/blob/main/samples/sample-3-2.png?raw=true"> |
+|<img width="512" alt="" src="https://github.com/Mikubill/sd-paint-with-words/blob/main/samples/sample-1-compressed.png?raw=true">  |  <img width="512d" alt="" src="https://github.com/Mikubill/sd-paint-with-words/blob/main/samples/sample-1-output-compressed.png?raw=true"> |
