@@ -8,7 +8,7 @@ Inspired by this method, we created a simple a1111-style sketching UI that allow
 
 **Config and Run**
 
-1. Set your model path in https://github.com/Mikubill/sd-paint-with-words/blob/main/app.py#L28-L35
+1. Set your model path in https://github.com/Mikubill/sd-paint-with-words/blob/15e800e6c5ec14763567ec47173c9528fedc2649/app.py#L28-L35
 2. `python app.py`
 
 **Some samples**
